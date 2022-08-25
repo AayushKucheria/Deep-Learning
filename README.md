@@ -1,5 +1,7 @@
 # Deep-Learning
-Building different models in a Deep Learning Course I took at Aalto University
+Building different models in a Deep Learning Course I took at Aalto University.
+
+---
 
 **02-mlp**: Built an mlp from scratch in numpy and in pytorch
 
