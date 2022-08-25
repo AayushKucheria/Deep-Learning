@@ -5,7 +5,7 @@ Building different models in a Deep Learning Course I took at Aalto University
 
 (Rest in pytorch)
 
-**03-mlp**: Built lenet, vgg, and resnet architectures
+**03-cnn**: Built lenet, vgg, and resnet architectures
 
 **4-reg**: Dabbled in some regularization techniques in dropout, early stopping, noise injection, etc
 
